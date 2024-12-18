@@ -48,7 +48,7 @@ const Hero = () => {
   </a>
 
   {/* Discover Destinations Button */}
-  <Link to={'/create'}
+  <Link to={'/create-trip'}
     
     className="bg-gray-700 hover:bg-gray-800 text-white font-semibold py-3 px-6 rounded-lg shadow-lg transition flex items-center space-x-2"
   >
